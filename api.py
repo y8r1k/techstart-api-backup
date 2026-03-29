@@ -6,3 +6,6 @@ def get_version():
 
 def get_role():
     return "admin"
+
+def get_products():
+    return ["product1", "product2"]
